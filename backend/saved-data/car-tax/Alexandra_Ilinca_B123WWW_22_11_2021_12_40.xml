@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<payer>
+   <firstName>Alexandra</firstName>
+   <lastName>Ilinca</lastName>
+   <email>mihai.costin1010@gmail.com</email>
+   <identityCardNumber>2237213782172</identityCardNumber>
+   <district>Dâmbovița</district>
+   <totalSum>2703.89</totalSum>
+   <vehicle>
+      <registrationCarNumber>B123WWW</registrationCarNumber>
+      <cylindricalCapacity>2932</cylindricalCapacity>
+      <carType>Automobil</carType>
+   </vehicle>
+</payer>

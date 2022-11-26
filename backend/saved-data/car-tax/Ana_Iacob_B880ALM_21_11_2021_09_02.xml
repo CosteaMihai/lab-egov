@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<payer>
+   <firstName>Ana</firstName>
+   <lastName>Iacob</lastName>
+   <email>ana.iacum@gmail.com</email>
+   <identityCardNumber>1231231231231</identityCardNumber>
+   <district>Brăila</district>
+   <totalSum>207.00</totalSum>
+   <vehicle>
+      <registrationCarNumber>B880ALM</registrationCarNumber>
+      <cylindricalCapacity>2300</cylindricalCapacity>
+      <carType>Tractor</carType>
+   </vehicle>
+</payer>

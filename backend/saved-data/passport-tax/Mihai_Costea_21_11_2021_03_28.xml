@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<payment>
+   <firstName>Mihai</firstName>
+   <lastName>Costea</lastName>
+   <email>mihai.costin1010@gmail.com</email>
+   <identityCardNumber>1982312312322</identityCardNumber>
+   <actionType>Pasaport electronic(peste 12 ani)</actionType>
+   <totalSum>158</totalSum>
+</payment>

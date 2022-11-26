@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<payer>
+   <firstName>Elena</firstName>
+   <lastName>Coman</lastName>
+   <email>coma@elena.ro</email>
+   <identityCardNumber>1971111123123</identityCardNumber>
+   <district>Dâmbovița</district>
+   <totalSum>171.36</totalSum>
+   <vehicle>
+      <registrationCarNumber>BR990AND</registrationCarNumber>
+      <cylindricalCapacity>1231</cylindricalCapacity>
+      <carType>Autobuz, autocar, microbuz</carType>
+   </vehicle>
+</payer>

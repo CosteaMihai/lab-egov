@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<payer>
+   <firstName>Ion</firstName>
+   <lastName>Vasile</lastName>
+   <email>mihai.costin1010@gmail.com</email>
+   <identityCardNumber>1234123412345</identityCardNumber>
+   <district>Brașov</district>
+   <totalSum>532.80</totalSum>
+   <vehicle>
+      <registrationCarNumber>B123ABS</registrationCarNumber>
+      <cylindricalCapacity>3700</cylindricalCapacity>
+      <carType>Autobuz, autocar, microbuz</carType>
+   </vehicle>
+</payer>

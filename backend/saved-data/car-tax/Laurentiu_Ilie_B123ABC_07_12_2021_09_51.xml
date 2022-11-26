@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<payer>
+   <firstName>Laurentiu</firstName>
+   <lastName>Ilie</lastName>
+   <email>mihai.costin1010@gmail.com</email>
+   <identityCardNumber>1971103322322</identityCardNumber>
+   <district>Giurgiu</district>
+   <totalSum>9280.00</totalSum>
+   <vehicle>
+      <registrationCarNumber>B123ABC</registrationCarNumber>
+      <cylindricalCapacity>5000</cylindricalCapacity>
+      <carType>Automobil</carType>
+   </vehicle>
+</payer>

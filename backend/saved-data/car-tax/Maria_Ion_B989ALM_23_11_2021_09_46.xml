@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<payer>
+   <firstName>Maria</firstName>
+   <lastName>Ion</lastName>
+   <email>mihai.costin1010@gmail.com</email>
+   <identityCardNumber>1971103301231</identityCardNumber>
+   <district>Neamț</district>
+   <totalSum>877.69</totalSum>
+   <vehicle>
+      <registrationCarNumber>B989ALM</registrationCarNumber>
+      <cylindricalCapacity>2222</cylindricalCapacity>
+      <carType>Automobil</carType>
+   </vehicle>
+</payer>

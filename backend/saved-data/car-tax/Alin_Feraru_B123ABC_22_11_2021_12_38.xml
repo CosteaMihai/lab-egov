@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<payer>
+   <firstName>Alin</firstName>
+   <lastName>Feraru</lastName>
+   <email>mihai.costin1010@gmail.com</email>
+   <identityCardNumber>1982231231122</identityCardNumber>
+   <district>Mureș</district>
+   <totalSum>103.78</totalSum>
+   <vehicle>
+      <registrationCarNumber>B123ABC</registrationCarNumber>
+      <cylindricalCapacity>2162</cylindricalCapacity>
+      <carType>Motocicleta si motoreta</carType>
+   </vehicle>
+</payer>

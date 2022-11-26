@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<payer>
+   <firstName>Mihai</firstName>
+   <lastName>Costea</lastName>
+   <email>mihai.costin1010@gmail.com</email>
+   <identityCardNumber>1971103389722</identityCardNumber>
+   <district>Neamț</district>
+   <totalSum>908.50</totalSum>
+   <vehicle>
+      <registrationCarNumber>B100ABC</registrationCarNumber>
+      <cylindricalCapacity>2300</cylindricalCapacity>
+      <carType>Automobil</carType>
+   </vehicle>
+</payer>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<payer>
+   <firstName>Ion</firstName>
+   <lastName>Ion</lastName>
+   <email>mihai.costin1010@gmail.com</email>
+   <identityCardNumber>1234512345123</identityCardNumber>
+   <district>Hunedoara</district>
+   <totalSum>62.04</totalSum>
+   <vehicle>
+      <registrationCarNumber>B992AFM</registrationCarNumber>
+      <cylindricalCapacity>1231</cylindricalCapacity>
+      <carType>Motocicleta si motoreta</carType>
+   </vehicle>
+</payer>

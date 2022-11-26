@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<payer>
+   <firstName>Robert</firstName>
+   <lastName>Simion</lastName>
+   <email>simion.reober@yahoo.com</email>
+   <identityCardNumber>2198311231122</identityCardNumber>
+   <district>Brăila</district>
+   <totalSum>36.80</totalSum>
+   <vehicle>
+      <registrationCarNumber>B129ABC</registrationCarNumber>
+      <cylindricalCapacity>920</cylindricalCapacity>
+      <carType>Automobil</carType>
+   </vehicle>
+</payer>

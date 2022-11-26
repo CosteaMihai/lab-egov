@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<payer>
+   <firstName>Ilie</firstName>
+   <lastName>Ion</lastName>
+   <email>mihai.costin1010@gmail.com</email>
+   <identityCardNumber>1234512345123</identityCardNumber>
+   <district>Dâmbovița</district>
+   <totalSum>57.16</totalSum>
+   <vehicle>
+      <registrationCarNumber>B998AFM</registrationCarNumber>
+      <cylindricalCapacity>1232</cylindricalCapacity>
+      <carType>Motocicleta si motoreta</carType>
+   </vehicle>
+</payer>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<payer>
+   <firstName>Ion</firstName>
+   <lastName>Argeseanu</lastName>
+   <email>mihai.costin1010@gmail.com</email>
+   <identityCardNumber>1234123412345</identityCardNumber>
+   <district>Bihor</district>
+   <totalSum>977.17</totalSum>
+   <vehicle>
+      <registrationCarNumber>B123AJS</registrationCarNumber>
+      <cylindricalCapacity>2312</cylindricalCapacity>
+      <carType>Automobil</carType>
+   </vehicle>
+</payer>
